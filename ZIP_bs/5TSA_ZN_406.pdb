@@ -1,0 +1,34 @@
+HEADER    METAL BINDING PROTEIN                   28-OCT-16   5TSA              
+TITLE     CRYSTAL STRUCTURE OF THE ZRT-/IRT-LIKE PROTEIN FROM BORDETELLA        
+TITLE    2 BRONCHISEPTICA WITH BOUND ZN2+                                       
+COMPND    MOL_ID: 1;                                                            
+COMPND   2 MOLECULE: MEMBRANE PROTEIN;                                          
+COMPND   3 CHAIN: A;                                                            
+COMPND   4 ENGINEERED: YES                                                      
+HETNAM      ZN ZINC ION                                                         
+ATOM    227  N   ASP A  89     -16.279 -20.946  -0.290  1.00 41.12      A    N
+ATOM    228  CA  ASP A  89     -15.822 -19.723  -0.941  1.00 43.55      A    C
+ATOM    229  C   ASP A  89     -14.311 -19.540  -0.815  1.00 40.68      A    C
+ATOM    230  O   ASP A  89     -13.676 -19.038  -1.748  1.00 40.67      A    O
+ATOM    231  CB  ASP A  89     -16.558 -18.508  -0.360  1.00 49.10      A    C
+ATOM    232  CG  ASP A  89     -17.985 -18.372  -0.881  1.00 55.34      A    C
+ATOM    233  OD1 ASP A  89     -18.302 -18.917  -1.962  1.00 56.39      A    O
+ATOM    234  OD2 ASP A  89     -18.793 -17.698  -0.211  1.00 61.56      A    O
+ATOM   1414  N   HIS A 286     -19.959 -12.936   0.110  1.00 78.79      A    N
+ATOM   1415  CA  HIS A 286     -18.858 -13.470   0.904  1.00 72.51      A    C
+ATOM   1416  C   HIS A 286     -17.495 -13.148   0.272  1.00 71.03      A    C
+ATOM   1417  O   HIS A 286     -16.581 -13.978   0.281  1.00 69.19      A    O
+ATOM   1418  CB  HIS A 286     -19.004 -14.985   1.069  1.00 68.45      A    C
+ATOM   1419  CG  HIS A 286     -20.358 -15.430   1.532  1.00 73.04      A    C
+ATOM   1420  ND1 HIS A 286     -21.099 -16.375   0.858  1.00 73.17      A    N
+ATOM   1421  CD2 HIS A 286     -21.093 -15.079   2.615  1.00 77.46      A    C
+ATOM   1422  CE1 HIS A 286     -22.234 -16.584   1.502  1.00 78.99      A    C
+ATOM   1423  NE2 HIS A 286     -22.257 -15.807   2.569  1.00 79.49      A    N
+Environment
+ATOM    205  N   ALA A  85     -20.503 -22.309   3.771  1.00 48.34      A    N
+ATOM    206  CA  ALA A  85     -20.236 -21.375   2.684  1.00 49.91      A    C
+ATOM    207  C   ALA A  85     -18.887 -20.683   2.864  1.00 50.55      A    C
+ATOM    208  O   ALA A  85     -18.210 -20.381   1.873  1.00 49.68      A    O
+ATOM    209  CB  ALA A  85     -21.362 -20.347   2.582  1.00 52.22      A    C
+HETATM 1582 ZN   ZN  A 406     -20.666 -17.441  -0.856  0.42 74.56      A   ZN
+END

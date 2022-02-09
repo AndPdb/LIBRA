@@ -1,0 +1,29 @@
+HEADER    METAL BINDING PROTEIN                   28-OCT-16   5TSB              
+TITLE     CRYSTAL STRUCTURE OF THE ZRT-/IRT-LIKE PROTEIN FROM BORDETELLA        
+TITLE    2 BRONCHISEPTICA WITH BOUND CD2+                                       
+COMPND    MOL_ID: 1;                                                            
+COMPND   2 MOLECULE: MEMBRANE PROTEIN;                                          
+COMPND   3 CHAIN: A;                                                            
+COMPND   4 ENGINEERED: YES                                                      
+HETNAM      CD CADMIUM ION                                                      
+ATOM    557  N   ASP A 144      18.477   8.265   9.284  1.00 72.49      A    N
+ATOM    558  CA  ASP A 144      18.957   8.576  10.608  1.00 77.72      A    C
+ATOM    559  C   ASP A 144      17.743   8.496  11.524  1.00 90.14      A    C
+ATOM    560  O   ASP A 144      17.011   9.466  11.738  1.00 87.65      A    O
+ATOM    561  CB  ASP A 144      19.585   9.950  10.667  1.00 80.89      A    C
+ATOM    562  CG  ASP A 144      20.635  10.038  11.719  1.00 84.86      A    C
+ATOM    563  OD1 ASP A 144      21.764   9.616  11.409  1.00 87.35      A    O
+ATOM    564  OD2 ASP A 144      20.325  10.438  12.860  1.00 93.42      A    O
+ATOM   1338  N   HIS A 275      28.107  14.200   8.499  1.00 63.96      A    N
+ATOM   1339  CA  HIS A 275      27.423  13.873   9.745  1.00 67.15      A    C
+ATOM   1340  C   HIS A 275      28.232  13.061  10.703  1.00 66.24      A    C
+ATOM   1341  O   HIS A 275      28.124  13.263  11.881  1.00 74.77      A    O
+ATOM   1342  CB  HIS A 275      26.115  13.127   9.460  1.00 71.21      A    C
+ATOM   1343  CG  HIS A 275      24.972  13.502  10.357  1.00 79.02      A    C
+ATOM   1344  ND1 HIS A 275      24.538  14.800  10.516  1.00 80.31      A    N
+ATOM   1345  CD2 HIS A 275      24.140  12.738  11.104  1.00 87.72      A    C
+ATOM   1346  CE1 HIS A 275      23.511  14.822  11.345  1.00 86.58      A    C
+ATOM   1347  NE2 HIS A 275      23.245  13.584  11.715  1.00 91.78      A    N
+Environment
+HETATM 1504 CD   CD  A 404      22.872  11.285  13.259  1.00138.17      A   CD
+END

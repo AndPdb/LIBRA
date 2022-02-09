@@ -1,0 +1,61 @@
+HEADER    TRANSPORT PROTEIN                       24-JUN-19   6PGI              
+TITLE     ASYMMETRIC FUNCTIONS OF A BINUCLEAR METAL CLUSTER WITHIN THE TRANSPORT
+TITLE    2 PATHWAY OF THE ZIP TRANSITION METAL TRANSPORTERS                     
+COMPND    MOL_ID: 1;                                                            
+COMPND   2 MOLECULE: BBZIP;                                                     
+COMPND   3 CHAIN: A;                                                            
+COMPND   4 ENGINEERED: YES                                                      
+HETNAM      CD CADMIUM ION                                                      
+ATOM    265  N   MET A  99     -11.264   9.975   1.041  1.00 79.28      A    N
+ATOM    266  CA  MET A  99     -12.665   9.887   0.648  1.00 81.02      A    C
+ATOM    267  C   MET A  99     -13.169  11.203   0.066  1.00 84.63      A    C
+ATOM    268  O   MET A  99     -13.967  11.201  -0.877  1.00 79.34      A    O
+ATOM    269  CB  MET A  99     -13.517   9.470   1.840  1.00 44.99      A    C
+ATOM    270  CG  MET A  99     -13.315   8.044   2.294  1.00 44.99      A    C
+ATOM    271  SD  MET A  99     -14.407   7.649   3.676  1.00 44.99      A    S
+ATOM    272  CE  MET A  99     -13.393   8.129   5.074  1.00 44.99      A    C
+ATOM    682  N   HIS A 177     -21.168   4.270   7.602  1.00 87.85      A    N
+ATOM    683  CA  HIS A 177     -19.944   4.815   7.025  1.00 89.95      A    C
+ATOM    684  C   HIS A 177     -19.502   4.002   5.817  1.00 90.49      A    C
+ATOM    685  O   HIS A 177     -19.092   4.567   4.796  1.00 95.66      A    O
+ATOM    686  CB  HIS A 177     -18.829   4.855   8.073  1.00 46.07      A    C
+ATOM    687  CG  HIS A 177     -17.489   5.242   7.519  1.00 46.07      A    C
+ATOM    688  ND1 HIS A 177     -16.886   6.447   7.807  1.00 46.07      A    N
+ATOM    689  CD2 HIS A 177     -16.632   4.579   6.705  1.00 46.07      A    C
+ATOM    690  CE1 HIS A 177     -15.723   6.516   7.183  1.00 46.07      A    C
+ATOM    691  NE2 HIS A 177     -15.545   5.395   6.508  1.00 46.07      A    N
+ATOM    712  N   GLU A 181     -19.094   3.859   0.328  1.00 93.92      A    N
+ATOM    713  CA  GLU A 181     -17.827   3.511  -0.301  1.00 99.14      A    C
+ATOM    714  C   GLU A 181     -17.983   2.286  -1.197  1.00 90.05      A    C
+ATOM    715  O   GLU A 181     -17.520   2.290  -2.344  1.00 88.49      A    O
+ATOM    716  CB  GLU A 181     -16.765   3.302   0.780  1.00 47.68      A    C
+ATOM    717  CG  GLU A 181     -16.901   4.308   1.932  1.00 47.68      A    C
+ATOM    718  CD  GLU A 181     -15.587   4.622   2.636  1.00 47.68      A    C
+ATOM    719  OE1 GLU A 181     -14.948   3.698   3.185  1.00 47.68      A    O
+ATOM    720  OE2 GLU A 181     -15.198   5.806   2.654  1.00 47.68      A    O
+ATOM    880  N   GLN A 207      -7.509   3.402   1.993  1.00 72.41      A    N
+ATOM    881  CA  GLN A 207      -8.112   3.974   3.196  1.00 72.43      A    C
+ATOM    882  C   GLN A 207      -8.778   2.910   4.054  1.00 78.71      A    C
+ATOM    883  O   GLN A 207      -8.950   3.109   5.261  1.00 78.14      A    O
+ATOM    884  CB  GLN A 207      -9.143   5.046   2.841  1.00 41.92      A    C
+ATOM    885  CG  GLN A 207     -10.318   4.517   2.024  1.00 41.92      A    C
+ATOM    886  CD  GLN A 207     -11.684   4.918   2.556  1.00 41.92      A    C
+ATOM    887  OE1 GLN A 207     -11.818   5.440   3.663  1.00 41.92      A    O
+ATOM    888  NE2 GLN A 207     -12.710   4.689   1.747  1.00 41.92      A    N
+ATOM    908  N   GLU A 211      -8.882   2.220   8.354  1.00 74.21      A    N
+ATOM    909  CA  GLU A 211     -10.228   2.293   8.904  1.00 73.35      A    C
+ATOM    910  C   GLU A 211     -10.622   0.982   9.562  1.00 72.05      A    C
+ATOM    911  O   GLU A 211     -11.332   0.977  10.572  1.00 75.42      A    O
+ATOM    912  CB  GLU A 211     -11.217   2.654   7.807  1.00 42.92      A    C
+ATOM    913  CG  GLU A 211     -11.136   4.083   7.383  1.00 42.92      A    C
+ATOM    914  CD  GLU A 211     -12.294   4.463   6.508  1.00 42.92      A    C
+ATOM    915  OE1 GLU A 211     -12.569   3.721   5.540  1.00 42.92      A    O
+ATOM    916  OE2 GLU A 211     -12.936   5.492   6.800  1.00 42.92      A    O
+Environment
+ATOM    243  N   ALA A  95      -7.898   8.795   5.935  1.00 49.98      A    N
+ATOM    244  CA  ALA A  95      -9.042   8.187   5.265  1.00 55.67      A    C
+ATOM    245  C   ALA A  95     -10.065   9.237   4.851  1.00 57.57      A    C
+ATOM    246  O   ALA A  95     -10.636   9.160   3.756  1.00 56.12      A    O
+ATOM    247  CB  ALA A  95      -9.683   7.141   6.175  1.00 50.36      A    C
+HETATM 1509 CD   CD  A 402     -14.006   5.397   4.675  1.00 52.67      A   CD
+END

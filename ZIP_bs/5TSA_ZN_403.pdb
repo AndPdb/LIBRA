@@ -1,0 +1,37 @@
+HEADER    METAL BINDING PROTEIN                   28-OCT-16   5TSA              
+TITLE     CRYSTAL STRUCTURE OF THE ZRT-/IRT-LIKE PROTEIN FROM BORDETELLA        
+TITLE    2 BRONCHISEPTICA WITH BOUND ZN2+                                       
+COMPND    MOL_ID: 1;                                                            
+COMPND   2 MOLECULE: MEMBRANE PROTEIN;                                          
+COMPND   3 CHAIN: A;                                                            
+COMPND   4 ENGINEERED: YES                                                      
+HETNAM      ZN ZINC ION                                                         
+ATOM    727  N   HIS A 177     -14.221 -26.615 -17.512  1.00 44.05      A    N
+ATOM    728  CA  HIS A 177     -13.294 -25.864 -16.687  1.00 46.15      A    C
+ATOM    729  C   HIS A 177     -12.041 -26.665 -16.373  1.00 46.69      A    C
+ATOM    730  O   HIS A 177     -11.005 -26.070 -16.067  1.00 51.86      A    O
+ATOM    731  CB  HIS A 177     -14.017 -25.387 -15.419  1.00 46.31      A    C
+ATOM    732  CG  HIS A 177     -15.032 -24.304 -15.683  1.00 53.69      A    C
+ATOM    733  ND1 HIS A 177     -15.724 -23.662 -14.677  1.00 49.58      A    N
+ATOM    734  CD2 HIS A 177     -15.459 -23.742 -16.844  1.00 50.02      A    C
+ATOM    735  CE1 HIS A 177     -16.531 -22.757 -15.204  1.00 56.28      A    C
+ATOM    736  NE2 HIS A 177     -16.394 -22.789 -16.518  1.00 50.94      A    N
+ATOM   1398  N   GLU A 276     -15.207 -18.176 -12.627  1.00 56.75      A    N
+ATOM   1399  CA  GLU A 276     -15.310 -18.740 -11.293  1.00 56.34      A    C
+ATOM   1400  C   GLU A 276     -15.027 -17.702 -10.212  1.00 60.05      A    C
+ATOM   1401  O   GLU A 276     -15.100 -18.024  -9.021  1.00 59.33      A    O
+ATOM   1402  CB  GLU A 276     -14.349 -19.934 -11.165  1.00 52.79      A    C
+ATOM   1403  CG  GLU A 276     -14.532 -20.995 -12.260  1.00 54.28      A    C
+ATOM   1404  CD  GLU A 276     -13.681 -22.250 -12.041  1.00 59.13      A    C
+ATOM   1405  OE1 GLU A 276     -12.454 -22.105 -11.780  1.00 54.39      A    O
+ATOM   1406  OE2 GLU A 276     -14.248 -23.375 -12.131  1.00 55.39      A    O
+Environment
+ATOM    696  N   THR A 173     -20.126 -27.788 -17.395  1.00 41.46      A    N
+ATOM    697  CA  THR A 173     -19.275 -26.707 -16.906  1.00 45.97      A    C
+ATOM    698  C   THR A 173     -18.028 -27.252 -16.221  1.00 44.90      A    C
+ATOM    699  O   THR A 173     -16.912 -26.755 -16.435  1.00 42.22      A    O
+ATOM    700  CB  THR A 173     -20.058 -25.827 -15.931  1.00 48.15      A    C
+ATOM    701  OG1 THR A 173     -21.317 -25.483 -16.517  1.00 51.41      A    O
+ATOM    702  CG2 THR A 173     -19.270 -24.562 -15.603  1.00 43.08      A    C
+HETATM 1579 ZN   ZN  A 403     -16.033 -24.111 -12.739  0.47 50.66      A   ZN
+END
