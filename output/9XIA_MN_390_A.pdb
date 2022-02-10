@@ -1,0 +1,71 @@
+HEADER    ISOMERASE(INTRAMOLECULAR OXIDOREDUCTASE)11-OCT-90   9XIA              
+TITLE     X-RAY ANALYSIS OF D-XYLOSE ISOMERASE AT 1.9 ANGSTROMS: NATIVE ENZYME  
+TITLE    2 IN COMPLEX WITH SUBSTRATE AND WITH A MECHANISM-DESIGNED INACTIVATOR  
+COMPND    MOL_ID: 1;                                                            
+COMPND   2 MOLECULE: XYLOSE ISOMERASE;                                          
+COMPND   3 CHAIN: A;                                                            
+COMPND   4 EC: 5.3.1.5;                                                         
+COMPND   5 ENGINEERED: YES                                                      
+HETNAM      MN MANGANESE (II) ION                                               
+ATOM   1715  N   GLU A 217      33.324  41.516  60.255  1.00  5.00      A    N  
+ATOM   1716  CA  GLU A 217      34.491  40.953  60.897  1.00  5.00      A    C  
+ATOM   1717  C   GLU A 217      35.537  42.046  61.081  1.00  5.00      A    C  
+ATOM   1718  O   GLU A 217      35.752  42.757  60.092  1.00  5.00      A    O  
+ATOM   1719  CB  GLU A 217      35.105  39.805  59.989  1.00  5.00      A    C  
+ATOM   1720  CG  GLU A 217      36.227  39.196  60.780  1.00  5.00      A    C  
+ATOM   1721  CD  GLU A 217      36.846  38.033  60.083  1.00  6.77      A    C  
+ATOM   1722  OE1 GLU A 217      37.959  37.939  59.869  1.00  8.23      A    O  
+ATOM   1723  OE2 GLU A 217      36.102  37.200  59.757  1.00  8.53      A    O  
+ATOM   1735  N   HIS A 220      38.282  42.163  58.291  1.00  5.00      A    N  
+ATOM   1736  CA  HIS A 220      37.820  42.418  56.889  1.00  5.00      A    C  
+ATOM   1737  C   HIS A 220      37.620  43.883  56.561  1.00  5.00      A    C  
+ATOM   1738  O   HIS A 220      38.117  44.252  55.499  1.00  5.00      A    O  
+ATOM   1739  CB  HIS A 220      36.592  41.591  56.617  1.00  5.00      A    C  
+ATOM   1740  CG  HIS A 220      36.873  40.129  56.745  1.00  5.69      A    C  
+ATOM   1741  ND1 HIS A 220      35.868  39.198  56.503  1.00  7.38      A    N  
+ATOM   1742  CD2 HIS A 220      38.030  39.426  57.020  1.00  5.00      A    C  
+ATOM   1743  CE1 HIS A 220      36.409  38.001  56.661  1.00  7.90      A    C  
+ATOM   1744  NE2 HIS A 220      37.670  38.132  56.934  1.00  8.14      A    N  
+ATOM   2010  N   ASP A 255      44.502  38.385  54.957  1.00  5.00      A    N  
+ATOM   2011  CA  ASP A 255      43.630  38.268  56.151  1.00  5.00      A    C  
+ATOM   2012  C   ASP A 255      44.408  37.468  57.276  1.00  5.00      A    C  
+ATOM   2013  O   ASP A 255      44.591  36.257  57.069  1.00  5.00      A    O  
+ATOM   2014  CB  ASP A 255      42.380  37.669  55.659  1.00  5.00      A    C  
+ATOM   2015  CG  ASP A 255      41.342  37.447  56.653  1.00  5.88      A    C  
+ATOM   2016  OD1 ASP A 255      40.587  36.391  56.641  1.00  7.93      A    O  
+ATOM   2017  OD2 ASP A 255      41.047  38.212  57.622  1.00  5.00      A    O  
+ATOM   2027  N   ASP A 257      43.527  37.226  60.730  1.00  5.00      A    N  
+ATOM   2028  CA  ASP A 257      42.772  36.541  61.723  1.00  5.00      A    C  
+ATOM   2029  C   ASP A 257      43.581  36.352  63.032  1.00  5.44      A    C  
+ATOM   2030  O   ASP A 257      43.583  35.231  63.539  1.00  6.94      A    O  
+ATOM   2031  CB  ASP A 257      42.216  35.217  61.202  1.00  5.00      A    C  
+ATOM   2032  CG  ASP A 257      41.128  35.279  60.223  1.00  8.20      A    C  
+ATOM   2033  OD1 ASP A 257      40.679  34.298  59.571  1.00 12.60      A    O  
+ATOM   2034  OD2 ASP A 257      40.577  36.373  60.000  1.00  5.23      A    O  
+Environment
+ATOM   1446  N   LYS A 183      33.712  40.755  52.895  1.00  5.00      A    N  
+ATOM   1447  CA  LYS A 183      35.188  40.620  52.881  1.00  5.00      A    C  
+ATOM   1448  C   LYS A 183      35.527  41.267  51.493  1.00  5.00      A    C  
+ATOM   1449  O   LYS A 183      34.885  40.963  50.510  1.00  5.00      A    O  
+ATOM   1450  CB  LYS A 183      35.670  39.122  52.990  1.00  5.00      A    C  
+ATOM   1451  CG  LYS A 183      37.179  39.094  53.135  1.00  5.00      A    C  
+ATOM   1452  CD  LYS A 183      37.836  37.713  53.137  1.00  5.00      A    C  
+ATOM   1453  CE  LYS A 183      39.358  37.826  53.569  1.00  5.00      A    C  
+ATOM   1454  NZ  LYS A 183      39.905  36.392  53.639  1.00  5.00      A    N  
+ATOM   1948  N   ASN A 247      38.352  39.715  65.921  1.00  5.00      A    N  
+ATOM   1949  CA  ASN A 247      39.777  39.207  65.640  1.00  5.00      A    C  
+ATOM   1950  C   ASN A 247      40.659  40.522  65.550  1.00  5.00      A    C  
+ATOM   1951  O   ASN A 247      40.157  41.594  65.926  1.00  5.00      A    O  
+ATOM   1952  CB  ASN A 247      39.934  38.298  64.466  1.00  5.00      A    C  
+ATOM   1953  CG  ASN A 247      39.494  38.890  63.154  1.00  5.00      A    C  
+ATOM   1954  OD1 ASN A 247      39.390  40.126  62.953  1.00  5.00      A    O  
+ATOM   1955  ND2 ASN A 247      39.322  37.971  62.172  1.00  5.00      A    N  
+ATOM   2264  N   ASP A 287      36.623  34.772  65.358  1.00  5.00      A    N  
+ATOM   2265  CA  ASP A 287      36.915  34.107  64.087  1.00  5.00      A    C  
+ATOM   2266  C   ASP A 287      38.426  34.417  63.974  1.00  6.68      A    C  
+ATOM   2267  O   ASP A 287      38.801  35.486  63.458  1.00  6.39      A    O  
+ATOM   2268  CB  ASP A 287      36.021  34.500  62.953  1.00  5.35      A    C  
+ATOM   2269  CG  ASP A 287      36.468  33.712  61.732  1.00  6.34      A    C  
+ATOM   2270  OD1 ASP A 287      37.238  32.762  61.741  1.00  7.12      A    O  
+ATOM   2271  OD2 ASP A 287      36.095  34.095  60.659  1.00  5.00      A    O  
+HETATM 3061 MN   MN  A 390      39.138  36.918  58.315  1.00  8.81      A   MN  

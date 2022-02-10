@@ -1,0 +1,83 @@
+HEADER    LYASE(CARBON-CARBON)                    28-NOV-90   9RUB              
+TITLE     CRYSTAL STRUCTURE OF ACTIVATED RIBULOSE-1,5-BISPHOSPHATE CARBOXYLASE  
+TITLE    2 COMPLEXED WITH ITS SUBSTRATE, RIBULOSE-1,5-BISPHOSPHATE              
+COMPND    MOL_ID: 1;                                                            
+COMPND   2 MOLECULE: RIBULOSE-1,5-BISPHOSPHATE CARBOXYLASE;                     
+COMPND   3 CHAIN: A, B;                                                         
+COMPND   4 EC: 4.1.1.39;                                                        
+COMPND   5 ENGINEERED: YES                                                      
+HETNAM     FMT FORMIC ACID                                                      
+ATOM   4951  N   LYS B 191      59.932  -3.997   8.843  1.00  8.65      B    N  
+ATOM   4952  CA  LYS B 191      59.081  -3.385   9.907  1.00  8.99      B    C  
+ATOM   4953  C   LYS B 191      58.954  -4.216  11.175  1.00  8.48      B    C  
+ATOM   4954  O   LYS B 191      59.585  -3.887  12.186  1.00  8.01      B    O  
+ATOM   4955  CB  LYS B 191      57.663  -3.141   9.463  1.00  9.60      B    C  
+ATOM   4956  CG  LYS B 191      57.290  -1.659   9.526  1.00 10.86      B    C  
+ATOM   4957  CD  LYS B 191      55.794  -1.486   9.294  1.00 12.68      B    C  
+ATOM   4958  CE  LYS B 191      55.070  -2.291  10.384  1.00 14.32      B    C  
+ATOM   4959  NZ  LYS B 191      53.900  -1.734  11.042  1.00 15.61      B    N  
+ATOM   4968  N   ASP B 193      55.140  -6.416  12.264  1.00 11.49      B    N  
+ATOM   4969  CA  ASP B 193      53.704  -6.000  12.249  1.00 12.57      B    C  
+ATOM   4970  C   ASP B 193      53.374  -5.526  13.660  1.00 11.63      B    C  
+ATOM   4971  O   ASP B 193      53.889  -6.026  14.684  1.00 12.07      B    O  
+ATOM   4972  CB  ASP B 193      52.932  -7.191  11.741  1.00 14.75      B    C  
+ATOM   4973  CG  ASP B 193      51.619  -6.867  11.089  1.00 16.90      B    C  
+ATOM   4974  OD1 ASP B 193      51.138  -5.737  11.346  1.00 17.70      B    O  
+ATOM   4975  OD2 ASP B 193      51.135  -7.732  10.327  1.00 18.16      B    O  
+ATOM   4976  N   GLU B 194      52.480  -4.587  13.769  1.00  9.87      B    N  
+ATOM   4977  CA  GLU B 194      51.926  -3.953  14.968  1.00  8.10      B    C  
+ATOM   4978  C   GLU B 194      51.912  -4.817  16.204  1.00  6.47      B    C  
+ATOM   4979  O   GLU B 194      52.521  -4.420  17.217  1.00  6.12      B    O  
+ATOM   4980  CB  GLU B 194      50.515  -3.522  14.559  1.00  8.84      B    C  
+ATOM   4981  CG  GLU B 194      50.205  -3.437  13.068  1.00  9.91      B    C  
+ATOM   4982  CD  GLU B 194      48.870  -3.969  12.675  1.00 11.33      B    C  
+ATOM   4983  OE1 GLU B 194      48.706  -5.192  12.456  1.00 12.38      B    O  
+ATOM   4984  OE2 GLU B 194      47.899  -3.242  12.504  1.00 12.42      B    O  
+ATOM   5694  N   HIS B 287      53.228   4.074  14.276  1.00 11.57      B    N  
+ATOM   5695  CA  HIS B 287      52.221   3.241  13.583  1.00 15.28      B    C  
+ATOM   5696  C   HIS B 287      50.941   3.671  14.344  1.00 19.38      B    C  
+ATOM   5697  O   HIS B 287      50.969   3.851  15.600  1.00 20.35      B    O  
+ATOM   5698  CB  HIS B 287      52.531   1.732  13.663  1.00 14.09      B    C  
+ATOM   5699  CG  HIS B 287      51.462   1.093  12.826  1.00 14.23      B    C  
+ATOM   5700  ND1 HIS B 287      51.168  -0.243  12.746  1.00 14.32      B    N  
+ATOM   5701  CD2 HIS B 287      50.567   1.723  12.007  1.00 14.19      B    C  
+ATOM   5702  CE1 HIS B 287      50.145  -0.377  11.920  1.00 14.52      B    C  
+ATOM   5703  NE2 HIS B 287      49.752   0.803  11.455  1.00 14.51      B    N  
+ATOM   5944  N   HIS B 321      52.536   6.577   9.523  1.00  9.16      B    N  
+ATOM   5945  CA  HIS B 321      51.860   5.942   8.376  1.00 12.74      B    C  
+ATOM   5946  C   HIS B 321      50.964   6.983   7.730  1.00 14.90      B    C  
+ATOM   5947  O   HIS B 321      50.654   7.953   8.444  1.00 15.68      B    O  
+ATOM   5948  CB  HIS B 321      51.132   4.654   8.727  1.00 12.97      B    C  
+ATOM   5949  CG  HIS B 321      52.016   3.459   8.935  1.00 14.42      B    C  
+ATOM   5950  ND1 HIS B 321      51.862   2.219   8.342  1.00 14.61      B    N  
+ATOM   5951  CD2 HIS B 321      53.140   3.380   9.748  1.00 14.61      B    C  
+ATOM   5952  CE1 HIS B 321      52.828   1.417   8.805  1.00 14.85      B    C  
+ATOM   5953  NE2 HIS B 321      53.602   2.103   9.634  1.00 14.95      B    N  
+Environment
+ATOM   4737  N   ILE B 164      57.048  -5.591   5.689  1.00 15.14      B    N  
+ATOM   4738  CA  ILE B 164      56.351  -6.233   6.782  1.00 16.22      B    C  
+ATOM   4739  C   ILE B 164      56.392  -7.695   6.229  1.00 18.31      B    C  
+ATOM   4740  O   ILE B 164      55.984  -8.055   5.117  1.00 17.61      B    O  
+ATOM   4741  CB  ILE B 164      54.881  -5.877   7.173  1.00 14.74      B    C  
+ATOM   4742  CG1 ILE B 164      54.572  -4.372   7.440  1.00 13.50      B    C  
+ATOM   4743  CG2 ILE B 164      54.363  -6.680   8.387  1.00 14.15      B    C  
+ATOM   4744  CD1 ILE B 164      53.790  -3.866   6.192  1.00 12.88      B    C  
+ATOM   4960  N   ASN B 192      57.962  -5.105  11.208  1.00  8.03      B    N  
+ATOM   4961  CA  ASN B 192      57.521  -5.886  12.392  1.00  7.93      B    C  
+ATOM   4962  C   ASN B 192      56.011  -5.435  12.376  1.00  9.90      B    C  
+ATOM   4963  O   ASN B 192      55.848  -4.193  12.433  1.00 10.61      B    O  
+ATOM   4964  CB  ASN B 192      57.877  -5.549  13.790  1.00  4.70      B    C  
+ATOM   4965  CG  ASN B 192      58.479  -6.512  14.721  1.00  3.55      B    C  
+ATOM   4966  OD1 ASN B 192      58.900  -6.105  15.833  1.00  3.16      B    O  
+ATOM   4967  ND2 ASN B 192      58.634  -7.771  14.386  1.00  2.73      B    N  
+ATOM   5489  N   LEU B 261      59.144   1.141  17.022  1.00  2.89      B    N  
+ATOM   5490  CA  LEU B 261      57.713   1.171  16.634  1.00  4.57      B    C  
+ATOM   5491  C   LEU B 261      56.887   1.125  17.928  1.00  7.29      B    C  
+ATOM   5492  O   LEU B 261      56.939   0.352  18.895  1.00  7.31      B    O  
+ATOM   5493  CB  LEU B 261      57.324   0.244  15.514  1.00  2.73      B    C  
+ATOM   5494  CG  LEU B 261      55.980  -0.181  15.040  1.00  2.00      B    C  
+ATOM   5495  CD1 LEU B 261      55.562  -0.028  13.578  1.00  2.00      B    C  
+ATOM   5496  CD2 LEU B 261      55.926  -1.707  15.291  1.00  2.00      B    C  
+HETATM 7044  C   FMT B 701      52.703  -2.327  10.332  1.00 14.47      B    C  
+HETATM 7045  O1  FMT B 701      52.300  -3.435  10.417  1.00 16.96      B    O  
+HETATM 7046  O2  FMT B 701      52.066  -1.685   9.597  1.00 18.46      B    O  

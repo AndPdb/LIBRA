@@ -1,0 +1,63 @@
+HEADER    LYASE(CARBON-CARBON)                    28-NOV-90   9RUB              
+TITLE     CRYSTAL STRUCTURE OF ACTIVATED RIBULOSE-1,5-BISPHOSPHATE CARBOXYLASE  
+TITLE    2 COMPLEXED WITH ITS SUBSTRATE, RIBULOSE-1,5-BISPHOSPHATE              
+COMPND    MOL_ID: 1;                                                            
+COMPND   2 MOLECULE: RIBULOSE-1,5-BISPHOSPHATE CARBOXYLASE;                     
+COMPND   3 CHAIN: A, B;                                                         
+COMPND   4 EC: 4.1.1.39;                                                        
+COMPND   5 ENGINEERED: YES                                                      
+HETNAM      MG MAGNESIUM ION                                                    
+ATOM   1465  N   ASP A 193      38.648  20.152  37.912  1.00 12.42      A    N  
+ATOM   1466  CA  ASP A 193      37.994  19.589  36.643  1.00 15.48      A    C  
+ATOM   1467  C   ASP A 193      39.092  18.948  35.765  1.00 17.15      A    C  
+ATOM   1468  O   ASP A 193      40.304  18.941  36.091  1.00 17.45      A    O  
+ATOM   1469  CB  ASP A 193      37.042  20.617  36.042  1.00 15.97      A    C  
+ATOM   1470  CG  ASP A 193      35.878  20.103  35.231  1.00 16.81      A    C  
+ATOM   1471  OD1 ASP A 193      36.000  18.936  34.785  1.00 17.30      A    O  
+ATOM   1472  OD2 ASP A 193      34.821  20.718  34.978  1.00 16.96      A    O  
+Environment
+ATOM   1234  N   ILE A 164      32.843  19.085  41.989  1.00 13.83      A    N  
+ATOM   1235  CA  ILE A 164      33.684  19.632  40.941  1.00 14.47      A    C  
+ATOM   1236  C   ILE A 164      33.655  21.139  41.199  1.00 14.32      A    C  
+ATOM   1237  O   ILE A 164      32.580  21.749  41.139  1.00 14.26      A    O  
+ATOM   1238  CB  ILE A 164      33.122  19.189  39.546  1.00 15.18      A    C  
+ATOM   1239  CG1 ILE A 164      33.406  17.678  39.278  1.00 15.10      A    C  
+ATOM   1240  CG2 ILE A 164      33.571  20.126  38.386  1.00 15.08      A    C  
+ATOM   1241  CD1 ILE A 164      32.193  16.995  38.575  1.00 14.65      A    C  
+ATOM   1448  N   LYS A 191      37.425  17.300  43.472  1.00  4.72      A    N  
+ATOM   1449  CA  LYS A 191      38.355  16.905  42.399  1.00  5.63      A    C  
+ATOM   1450  C   LYS A 191      38.557  18.079  41.487  1.00  5.93      A    C  
+ATOM   1451  O   LYS A 191      37.499  18.700  41.291  1.00  5.27      A    O  
+ATOM   1452  CB  LYS A 191      37.768  15.741  41.708  1.00  6.58      A    C  
+ATOM   1453  CG  LYS A 191      36.667  15.926  40.753  1.00  8.36      A    C  
+ATOM   1454  CD  LYS A 191      36.488  14.589  40.032  1.00 11.09      A    C  
+ATOM   1455  CE  LYS A 191      36.372  14.798  38.563  1.00 13.59      A    C  
+ATOM   1456  NZ  LYS A 191      36.739  16.186  38.204  1.00 16.06      A    N  
+ATOM   1473  N   GLU A 194      38.781  18.436  34.563  1.00 18.76      A    N  
+ATOM   1474  CA  GLU A 194      39.778  17.770  33.682  1.00 19.79      A    C  
+ATOM   1475  C   GLU A 194      40.943  18.582  33.142  1.00 18.94      A    C  
+ATOM   1476  O   GLU A 194      42.085  18.082  33.119  1.00 18.93      A    O  
+ATOM   1477  CB  GLU A 194      39.155  16.833  32.687  1.00 21.16      A    C  
+ATOM   1478  CG  GLU A 194      38.084  16.930  31.665  1.00 22.38      A    C  
+ATOM   1479  CD  GLU A 194      36.897  17.807  31.804  1.00 23.15      A    C  
+ATOM   1480  OE1 GLU A 194      37.176  18.955  32.172  1.00 23.11      A    O  
+ATOM   1481  OE2 GLU A 194      35.750  17.453  31.526  1.00 24.22      A    O  
+ATOM   2191  N   HIS A 287      39.096   9.115  35.152  1.00 11.88      A    N  
+ATOM   2192  CA  HIS A 287      38.105   9.996  34.561  1.00 16.39      A    C  
+ATOM   2193  C   HIS A 287      38.205  10.014  33.037  1.00 18.59      A    C  
+ATOM   2194  O   HIS A 287      38.894  10.824  32.430  1.00 18.93      A    O  
+ATOM   2195  CB  HIS A 287      38.033  11.464  35.110  1.00 17.69      A    C  
+ATOM   2196  CG  HIS A 287      37.204  12.388  34.233  1.00 18.50      A    C  
+ATOM   2197  ND1 HIS A 287      37.508  13.686  33.962  1.00 18.78      A    N  
+ATOM   2198  CD2 HIS A 287      36.107  12.110  33.476  1.00 18.73      A    C  
+ATOM   2199  CE1 HIS A 287      36.628  14.163  33.096  1.00 19.05      A    C  
+ATOM   2200  NE2 HIS A 287      35.762  13.228  32.786  1.00 18.96      A    N  
+ATOM   4330  N   ASN B 111      35.218  16.325  26.827  1.00 38.52      B    N  
+ATOM   4331  CA  ASN B 111      33.800  16.237  27.205  1.00 39.96      B    C  
+ATOM   4332  C   ASN B 111      32.886  17.044  26.287  1.00 41.17      B    C  
+ATOM   4333  O   ASN B 111      31.830  17.465  26.742  1.00 41.25      B    O  
+ATOM   4334  CB  ASN B 111      33.591  16.869  28.597  1.00 39.60      B    C  
+ATOM   4335  CG  ASN B 111      33.446  15.763  29.621  1.00 39.30      B    C  
+ATOM   4336  OD1 ASN B 111      32.260  15.414  29.626  1.00 39.54      B    O  
+ATOM   4337  ND2 ASN B 111      34.551  15.403  30.244  1.00 38.76      B    N  
+HETATM 7021 MG   MG  A 500      34.230  17.105  34.883  1.00 21.06      A   MG  

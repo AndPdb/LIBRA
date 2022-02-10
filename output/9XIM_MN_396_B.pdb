@@ -1,0 +1,64 @@
+HEADER    ISOMERASE(INTRAMOLECULAR OXIDOREDUCTASE)03-APR-92   9XIM              
+TITLE     PROTEIN ENGINEERING OF XYLOSE (GLUCOSE) ISOMERASE FROM ACTINOPLANES   
+TITLE    2 MISSOURIENSIS. 1. CRYSTALLOGRAPHY AND SITE-DIRECTED MUTAGENESIS OF   
+TITLE    3 METAL BINDING SITES                                                  
+COMPND    MOL_ID: 1;                                                            
+COMPND   2 MOLECULE: D-XYLOSE ISOMERASE;                                        
+COMPND   3 CHAIN: A, B, C, D;                                                   
+COMPND   4 EC: 5.3.1.5;                                                         
+COMPND   5 ENGINEERED: YES                                                      
+HETNAM      MN MANGANESE (II) ION                                               
+ATOM   4708  N   GLU B 217      15.170  61.842 187.410  1.00 11.07      B    N  
+ATOM   4709  CA  GLU B 217      16.240  61.015 188.032  1.00 11.15      B    C  
+ATOM   4710  C   GLU B 217      17.568  61.659 187.682  1.00 10.15      B    C  
+ATOM   4711  O   GLU B 217      17.624  62.040 186.488  1.00 10.06      B    O  
+ATOM   4712  CB  GLU B 217      16.189  59.576 187.552  1.00 12.23      B    C  
+ATOM   4713  CG  GLU B 217      17.344  58.681 188.066  1.00 11.24      B    C  
+ATOM   4714  CD  GLU B 217      17.068  57.279 187.665  1.00 13.77      B    C  
+ATOM   4715  OE1 GLU B 217      15.954  56.805 188.041  1.00 15.72      B    O  
+ATOM   4716  OE2 GLU B 217      17.912  56.746 186.965  1.00 16.84      B    O  
+ATOM   4728  N   HIS B 220      19.287  60.363 184.424  1.00 10.50      B    N  
+ATOM   4729  CA  HIS B 220      18.505  60.541 183.175  1.00 10.36      B    C  
+ATOM   4730  C   HIS B 220      18.778  61.870 182.499  1.00  9.38      B    C  
+ATOM   4731  O   HIS B 220      18.933  61.884 181.261  1.00  9.83      B    O  
+ATOM   4732  CB  HIS B 220      16.997  60.324 183.368  1.00 10.85      B    C  
+ATOM   4733  CG  HIS B 220      16.769  58.899 183.803  1.00 11.48      B    C  
+ATOM   4734  ND1 HIS B 220      15.488  58.458 184.083  1.00 13.35      B    N  
+ATOM   4735  CD2 HIS B 220      17.602  57.841 183.968  1.00  9.65      B    C  
+ATOM   4736  CE1 HIS B 220      15.535  57.187 184.431  1.00 12.29      B    C  
+ATOM   4737  NE2 HIS B 220      16.797  56.804 184.368  1.00 12.08      B    N  
+ATOM   5017  N   ASP B 255      23.066  54.152 181.135  1.00 12.65      B    N  
+ATOM   5018  CA  ASP B 255      22.538  54.503 182.445  1.00 14.86      B    C  
+ATOM   5019  C   ASP B 255      23.311  53.758 183.531  1.00 12.99      B    C  
+ATOM   5020  O   ASP B 255      23.038  52.559 183.640  1.00 13.87      B    O  
+ATOM   5021  CB  ASP B 255      21.006  54.228 182.480  1.00 20.14      B    C  
+ATOM   5022  CG  ASP B 255      20.464  55.042 183.662  1.00 26.39      B    C  
+ATOM   5023  OD1 ASP B 255      21.156  55.890 184.315  1.00 31.69      B    O  
+ATOM   5024  OD2 ASP B 255      19.306  54.866 184.015  1.00 28.30      B    O  
+ATOM   5034  N   ASP B 257      23.483  54.296 187.046  1.00 11.62      B    N  
+ATOM   5035  CA  ASP B 257      22.791  54.115 188.333  1.00 12.38      B    C  
+ATOM   5036  C   ASP B 257      23.807  53.935 189.478  1.00 12.29      B    C  
+ATOM   5037  O   ASP B 257      23.655  52.968 190.247  1.00 11.98      B    O  
+ATOM   5038  CB  ASP B 257      21.823  52.940 188.305  1.00 15.05      B    C  
+ATOM   5039  CG  ASP B 257      20.579  53.132 187.487  1.00 16.39      B    C  
+ATOM   5040  OD1 ASP B 257      20.079  54.230 187.381  1.00 14.76      B    O  
+ATOM   5041  OD2 ASP B 257      19.971  52.252 186.852  1.00 20.18      B    O  
+Environment
+ATOM   4444  N   LYS B 183      13.237  59.970 180.660  1.00 11.90      B    N  
+ATOM   4445  CA  LYS B 183      14.526  59.304 180.389  1.00 10.72      B    C  
+ATOM   4446  C   LYS B 183      14.749  59.472 178.894  1.00  9.42      B    C  
+ATOM   4447  O   LYS B 183      13.774  59.224 178.176  1.00 11.73      B    O  
+ATOM   4448  CB  LYS B 183      14.506  57.835 180.788  1.00 10.76      B    C  
+ATOM   4449  CG  LYS B 183      15.904  57.202 180.771  1.00  9.98      B    C  
+ATOM   4450  CD  LYS B 183      15.837  55.717 181.105  1.00  9.80      B    C  
+ATOM   4451  CE  LYS B 183      17.199  55.098 181.353  1.00  8.88      B    C  
+ATOM   4452  NZ  LYS B 183      17.096  53.658 181.666  1.00  7.40      B    N  
+ATOM   4955  N   ASN B 247      20.767  59.327 192.106  1.00 13.29      B    N  
+ATOM   4956  CA  ASN B 247      21.792  58.336 191.714  1.00 10.70      B    C  
+ATOM   4957  C   ASN B 247      22.956  59.105 191.083  1.00 11.04      B    C  
+ATOM   4958  O   ASN B 247      22.974  60.343 191.192  1.00  9.99      B    O  
+ATOM   4959  CB  ASN B 247      21.177  57.216 190.922  1.00  9.19      B    C  
+ATOM   4960  CG  ASN B 247      20.676  57.599 189.555  1.00  7.56      B    C  
+ATOM   4961  OD1 ASN B 247      20.851  58.736 189.152  1.00  7.63      B    O  
+ATOM   4962  ND2 ASN B 247      20.058  56.651 188.872  1.00  7.52      B    N  
+HETATM12216 MN   MN  B 396      18.465  55.110 185.676  1.00 25.47      B   MN  

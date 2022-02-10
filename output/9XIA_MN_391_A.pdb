@@ -1,0 +1,63 @@
+HEADER    ISOMERASE(INTRAMOLECULAR OXIDOREDUCTASE)11-OCT-90   9XIA              
+TITLE     X-RAY ANALYSIS OF D-XYLOSE ISOMERASE AT 1.9 ANGSTROMS: NATIVE ENZYME  
+TITLE    2 IN COMPLEX WITH SUBSTRATE AND WITH A MECHANISM-DESIGNED INACTIVATOR  
+COMPND    MOL_ID: 1;                                                            
+COMPND   2 MOLECULE: XYLOSE ISOMERASE;                                          
+COMPND   3 CHAIN: A;                                                            
+COMPND   4 EC: 5.3.1.5;                                                         
+COMPND   5 ENGINEERED: YES                                                      
+HETNAM      MN MANGANESE (II) ION                                               
+ATOM   1430  N   GLU A 181      28.334  38.068  55.689  1.00  5.00      A    N  
+ATOM   1431  CA  GLU A 181      29.625  38.632  56.180  1.00  5.00      A    C  
+ATOM   1432  C   GLU A 181      30.410  39.119  55.009  1.00  5.00      A    C  
+ATOM   1433  O   GLU A 181      30.766  38.322  54.081  1.00  5.00      A    O  
+ATOM   1434  CB  GLU A 181      30.362  37.482  56.836  1.00  5.00      A    C  
+ATOM   1435  CG  GLU A 181      31.776  37.634  57.106  1.00  8.55      A    C  
+ATOM   1436  CD  GLU A 181      32.869  36.819  57.562  1.00 12.31      A    C  
+ATOM   1437  OE1 GLU A 181      33.833  36.533  56.823  1.00 14.60      A    O  
+ATOM   1438  OE2 GLU A 181      32.729  36.401  58.688  1.00 12.06      A    O  
+ATOM   1715  N   GLU A 217      33.324  41.516  60.255  1.00  5.00      A    N  
+ATOM   1716  CA  GLU A 217      34.491  40.953  60.897  1.00  5.00      A    C  
+ATOM   1717  C   GLU A 217      35.537  42.046  61.081  1.00  5.00      A    C  
+ATOM   1718  O   GLU A 217      35.752  42.757  60.092  1.00  5.00      A    O  
+ATOM   1719  CB  GLU A 217      35.105  39.805  59.989  1.00  5.00      A    C  
+ATOM   1720  CG  GLU A 217      36.227  39.196  60.780  1.00  5.00      A    C  
+ATOM   1721  CD  GLU A 217      36.846  38.033  60.083  1.00  6.77      A    C  
+ATOM   1722  OE1 GLU A 217      37.959  37.939  59.869  1.00  8.23      A    O  
+ATOM   1723  OE2 GLU A 217      36.102  37.200  59.757  1.00  8.53      A    O  
+ATOM   1932  N   ASP A 245      32.039  39.171  64.152  1.00  5.43      A    N  
+ATOM   1933  CA  ASP A 245      33.277  38.337  64.171  1.00  5.00      A    C  
+ATOM   1934  C   ASP A 245      34.465  39.197  64.680  1.00  5.00      A    C  
+ATOM   1935  O   ASP A 245      34.823  40.182  64.067  1.00  5.00      A    O  
+ATOM   1936  CB  ASP A 245      33.680  37.684  62.902  1.00  5.00      A    C  
+ATOM   1937  CG  ASP A 245      32.930  36.462  62.620  1.00  5.00      A    C  
+ATOM   1938  OD1 ASP A 245      33.302  35.784  61.713  1.00  5.63      A    O  
+ATOM   1939  OD2 ASP A 245      31.888  36.026  63.201  1.00  5.43      A    O  
+ATOM   2264  N   ASP A 287      36.623  34.772  65.358  1.00  5.00      A    N  
+ATOM   2265  CA  ASP A 287      36.915  34.107  64.087  1.00  5.00      A    C  
+ATOM   2266  C   ASP A 287      38.426  34.417  63.974  1.00  6.68      A    C  
+ATOM   2267  O   ASP A 287      38.801  35.486  63.458  1.00  6.39      A    O  
+ATOM   2268  CB  ASP A 287      36.021  34.500  62.953  1.00  5.35      A    C  
+ATOM   2269  CG  ASP A 287      36.468  33.712  61.732  1.00  6.34      A    C  
+ATOM   2270  OD1 ASP A 287      37.238  32.762  61.741  1.00  7.12      A    O  
+ATOM   2271  OD2 ASP A 287      36.095  34.095  60.659  1.00  5.00      A    O  
+Environment
+ATOM   1700  N   ASN A 215      27.117  40.274  59.448  1.00  5.00      A    N  
+ATOM   1701  CA  ASN A 215      28.071  39.645  60.386  1.00  5.00      A    C  
+ATOM   1702  C   ASN A 215      29.444  40.307  60.003  1.00  6.34      A    C  
+ATOM   1703  O   ASN A 215      30.279  39.754  59.245  1.00  6.29      A    O  
+ATOM   1704  CB  ASN A 215      28.063  38.096  60.162  1.00  6.07      A    C  
+ATOM   1705  CG  ASN A 215      29.039  37.508  61.192  1.00  6.62      A    C  
+ATOM   1706  OD1 ASN A 215      28.976  37.924  62.353  1.00 10.55      A    O  
+ATOM   1707  ND2 ASN A 215      29.932  36.646  60.827  1.00  7.03      A    N  
+ATOM   1735  N   HIS A 220      38.282  42.163  58.291  1.00  5.00      A    N  
+ATOM   1736  CA  HIS A 220      37.820  42.418  56.889  1.00  5.00      A    C  
+ATOM   1737  C   HIS A 220      37.620  43.883  56.561  1.00  5.00      A    C  
+ATOM   1738  O   HIS A 220      38.117  44.252  55.499  1.00  5.00      A    O  
+ATOM   1739  CB  HIS A 220      36.592  41.591  56.617  1.00  5.00      A    C  
+ATOM   1740  CG  HIS A 220      36.873  40.129  56.745  1.00  5.69      A    C  
+ATOM   1741  ND1 HIS A 220      35.868  39.198  56.503  1.00  7.38      A    N  
+ATOM   1742  CD2 HIS A 220      38.030  39.426  57.020  1.00  5.00      A    C  
+ATOM   1743  CE1 HIS A 220      36.409  38.001  56.661  1.00  7.90      A    C  
+ATOM   1744  NE2 HIS A 220      37.670  38.132  56.934  1.00  8.14      A    N  
+HETATM 3062 MN   MN  A 391      34.515  35.473  59.775  1.00 13.12      A   MN  
